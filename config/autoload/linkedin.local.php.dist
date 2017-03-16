@@ -1,0 +1,9 @@
+<?php
+
+return [
+    'linkedin' => [
+        'callback_uri' => 'http://localhost:8000/auth/callback',
+        'client_key' => '',
+        'client_key_secret' => '',
+    ]
+];
